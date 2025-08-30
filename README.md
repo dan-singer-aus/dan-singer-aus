@@ -8,7 +8,7 @@ Outside of work, I’m passionate about photography, travel, hiking, and surfing
 
 I co-created Kubrick AI, an open-source platform that makes video content searchable through multimodal embeddings. Built on AWS serverless architecture (Lambda, SQS, S3, RDS/pgvector), Kubrick is designed for scalability, performance, and data ownership. I built it collaboratively with an international team, tackling complex architectural trade-offs together and documenting our approach in a detailed case study.
 
-👀[Read the Case Study](https://kubrick-ai.com/case-study/intro/) 
+👀 [Read the Case Study](https://kubrick-ai.com/case-study/intro/) 
 
 ## **🧑‍💻Programming Stack**
 
