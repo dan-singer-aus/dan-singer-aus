@@ -14,12 +14,12 @@ I co-created Kubrick AI, an open-source platform that makes video content search
 
 | **Category** | **Technologies** |
 | --- | --- |
-| Programming Languages | Ruby, Python, JavaScript, TypeScript, Ruby |
+| Programming Languages | Ruby, Python, JavaScript, TypeScript |
 | Web Development | Express, React, Node.js, Sinatra, jQuery, HTML5, CSS, Next.js |
 | Databases | MongoDB, PostgreSQL |
 | Cloud Services | Digital Ocean, AWS |
 | AI | RAG, OpenAI, Embeddings, LangChain, pgvector, TwelveLabs |
-| Other | REST APIs, Jest, Minitest, Terraform |
+| Other | REST APIs, Vitest, Minitest, Terraform |
 
 ## 📫Get in Touch!
 
